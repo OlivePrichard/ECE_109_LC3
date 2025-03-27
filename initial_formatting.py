@@ -63,10 +63,10 @@ def compress(image):
         else:
             compressed.append(linear[i] + 32 * linear[i + 1] + 32**2 * linear[i + 2] + 32**3)
             i += 3
-            if linear[i + 2] == 0:
-                i -= 1
-                if linear[i + 1] == 0:
-                    i -= 1
+            # if linear[i + 2] == 0:
+            #     i -= 1
+            #     if linear[i + 1] == 0:
+            #         i -= 1
     return compressed
 
 def alt_compress(image):
@@ -119,8 +119,8 @@ def read(values):
             for _ in range(3):
                 pixels.append(v % 32)
                 v //= 32
-                if v == 0:
-                    break
+                # if v == 0:
+                #     break
         else:
             p = value % 32
             if p == 31:

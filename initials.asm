@@ -5,79 +5,61 @@
         .FILL xFFFE
         .FILL xF7DF
         .FILL xDF5C
-        .FILL xA257
         .FILL x8112
-        .FILL x8008
-        .FILL x0D60
+        .FILL x0D40
         .FILL xF70F
         .FILL x021F
         .FILL xB6FC
-        .FILL x81B7
-        .FILL x800D
         .FILL x0340
         .FILL xFFF7
         .FILL x031F
         .FILL xF7DE
         .FILL xE35C
         .FILL xA635
-        .FILL x8131
-        .FILL x8009
         .FILL x04A0
         .FILL xFAC9
         .FILL x02DF
         .FILL x929C
-        .FILL x8094
-        .FILL x8004
         .FILL x02E0
         .FILL xFFF7
         .FILL x043F
         .FILL xCF3E
-        .FILL x80F3
         .FILL x8007
-        .FILL x03E0
+        .FILL x03A0
         .FILL xFF2A
         .FILL x013F
         .FILL xF3BE
         .FILL xFBBC
         .FILL x015F
         .FILL x929E
-        .FILL x8094
-        .FILL x8004
         .FILL x0300
         .FILL xC966
         .FILL xFFF9
         .FILL x03FF
         .FILL x8198
-        .FILL x800C
-        .FILL x0360
+        .FILL x0340
         .FILL xFEE6
         .FILL x00FF
         .FILL xBABB
-        .FILL x80AE
         .FILL x8005
-        .FILL x00A0
+        .FILL x0060
         .FILL xD9E7
         .FILL xFFFB
         .FILL x00DF
         .FILL x821D
-        .FILL x8010
-        .FILL x0360
+        .FILL x0340
         .FILL xFF8B
         .FILL x041F
         .FILL x8119
-        .FILL x8008
-        .FILL x0300
+        .FILL x02E0
         .FILL xFFB0
         .FILL x00BF
         .FILL xA6DE
-        .FILL x8136
-        .FILL x8009
         .FILL x01A0
         .FILL xFAA9
         .FILL x00FF
         .FILL x80F9
-        .FILL x8007
-        .FILL x0340
+        .FILL x0320
         .FILL xFFA7
         .FILL x011F
         .FILL xDB5E
@@ -86,482 +68,469 @@
         .FILL xEED1
         .FILL x017F
         .FILL x825E
-        .FILL x8012
-        .FILL x02A0
+        .FILL x0280
         .FILL xFEE4
         .FILL x00DF
         .FILL x80F8
-        .FILL x8007
-        .FILL x0220
+        .FILL x0200
         .FILL xFEC5
         .FILL x00DF
         .FILL x81BD
-        .FILL x800D
-        .FILL x0340
+        .FILL x0320
         .FILL xFFF5
         .FILL x00FF
         .FILL x8009
-        .FILL x0140
+        .FILL x0100
         .FILL xFEE9
         .FILL x015F
         .FILL x8016
-        .FILL x0260
+        .FILL x0220
         .FILL xFF68
         .FILL x00BF
         .FILL x821E
-        .FILL x8010
-        .FILL x02A0
+        .FILL x0280
         .FILL xFFAD
         .FILL x00DF
         .FILL x8012
-        .FILL x0320
+        .FILL x02E0
         .FILL xFFEC
         .FILL x00FF
         .FILL x8009
-        .FILL x0180
+        .FILL x0140
         .FILL xFF6B
         .FILL x013F
         .FILL x8019
-        .FILL x0220
+        .FILL x01E0
         .FILL xFFAD
         .FILL x00BF
         .FILL x817D
-        .FILL x800B
-
-        .FILL x02E0
+        .FILL x02C0
         .FILL xFF67
         .FILL x00DF
         .FILL x8014
-        .FILL x0320
+        .FILL x02E0
         .FILL x013F
         .FILL x8009
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFF8
         .FILL x011F
         .FILL x8017
-        .FILL x01E0
-        .FILL xFFCD
-        .FILL x00BF
-        .FILL x813D
-        .FILL x8009
-        .FILL x0320
-        .FILL xFF64
-        .FILL x00DF
-        .FILL x8016
-        .FILL x0300
-        .FILL xFFFD
-        .FILL x00DF
-        .FILL x8009
-        .FILL x01E0
-        .FILL xFFF8
-        .FILL x011F
-        .FILL x8014
         .FILL x01A0
         .FILL xFFCD
         .FILL x00BF
+        .FILL x813D
+        .FILL x0300
+        .FILL xFF64
+        .FILL x00DF
+        .FILL x8016
+        .FILL x02C0
+        .FILL xFFFD
+        .FILL x00DF
+        .FILL x8009
+
+        .FILL x01A0
+        .FILL xFFF8
+        .FILL x011F
+        .FILL x8014
+        .FILL x0160
+        .FILL xFFCD
+        .FILL x00BF
         .FILL x817E
-        .FILL x800B
-        .FILL x0360
+        .FILL x0340
         .FILL xFF86
         .FILL x00DF
         .FILL x8015
-        .FILL x02E0
+        .FILL x02A0
         .FILL xFFFC
         .FILL x00DF
         .FILL x8009
-        .FILL x01E0
+        .FILL x01A0
         .FILL xFF84
         .FILL x013F
         .FILL x800C
-        .FILL x0160
+        .FILL x0120
         .FILL xFFCC
         .FILL x00DF
         .FILL x8011
-        .FILL x03A0
+        .FILL x0360
         .FILL xFFEC
         .FILL x00DF
         .FILL x8013
-        .FILL x02C0
-        .FILL xFFFB
-        .FILL x00DF
-        .FILL x8009
-        .FILL x0200
-        .FILL xFFED
-        .FILL x011F
-        .FILL x801B
-        .FILL x0140
-        .FILL xFFA6
-        .FILL x00DF
-        .FILL x8018
-        .FILL x03E0
-        .FILL xFFF3
-        .FILL x00DF
-        .FILL x8010
-        .FILL x02A0
-        .FILL xFFFB
-        .FILL x00DF
-        .FILL x8009
-        .FILL x0220
-        .FILL xFFF9
-        .FILL x011F
-        .FILL x8010
-        .FILL x0120
-        .FILL xFFFA
-        .FILL x00BF
-        .FILL x80DE
-        .FILL x8006
-        .FILL x0400
-        .FILL xFFFB
-        .FILL x00BF
-        .FILL x811E
-        .FILL x8008
         .FILL x0280
-        .FILL xFFFA
+        .FILL xFFFB
         .FILL x00DF
         .FILL x8009
-        .FILL x0220
+        .FILL x01C0
         .FILL xFFED
         .FILL x011F
         .FILL x801B
         .FILL x0100
+        .FILL xFFA6
+        .FILL x00DF
+        .FILL x8018
+        .FILL x03A0
+        .FILL xFFF3
+        .FILL x00DF
+        .FILL x8010
+        .FILL x0260
+        .FILL xFFFB
+        .FILL x00DF
+        .FILL x8009
+        .FILL x01E0
+        .FILL xFFF9
+        .FILL x011F
+        .FILL x8010
+        .FILL x00E0
+        .FILL xFFFA
+        .FILL x00BF
+        .FILL x80DE
+        .FILL x03E0
+        .FILL xFFFB
+        .FILL x00BF
+        .FILL x811E
+        .FILL x0260
+        .FILL xFFFA
+        .FILL x00DF
+        .FILL x8009
+        .FILL x01E0
+        .FILL xFFED
+        .FILL x011F
+        .FILL x801B
+        .FILL x00C0
         .FILL xFFF5
         .FILL x00DF
         .FILL x8013
-        .FILL x0420
+        .FILL x03E0
         .FILL xFFEF
         .FILL x00DF
         .FILL x801A
-        .FILL x0280
+        .FILL x0240
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0240
+        .FILL x0200
         .FILL xFFFB
         .FILL x011F
         .FILL x800A
-        .FILL x00C0
+        .FILL x0080
         .FILL xFFEB
         .FILL x00DF
         .FILL x801D
-        .FILL x0460
+        .FILL x0420
         .FILL xFFFA
         .FILL x00DF
         .FILL x8014
-        .FILL x0260
+        .FILL x0220
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0240
+        .FILL x0200
         .FILL xFFF6
         .FILL x011F
         .FILL x8013
-        .FILL x00C0
-
+        .FILL x0080
         .FILL xFFFB
         .FILL x00DF
         .FILL x8014
-        .FILL x0460
+        .FILL x0420
         .FILL xFFF0
         .FILL x00DF
         .FILL x811E
-        .FILL x8008
-        .FILL x0240
+        .FILL x0220
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0240
+        .FILL x0200
         .FILL xFFED
         .FILL x011F
         .FILL x8018
-        .FILL x00A0
+        .FILL x0060
         .FILL xFFF2
         .FILL x00DF
         .FILL x80BE
-        .FILL x8005
-        .FILL x0480
+        .FILL x0460
         .FILL xFFFD
         .FILL x00DF
         .FILL x8018
-        .FILL x0240
-        .FILL xFFFA
-        .FILL x00DF
-        .FILL x8009
-        .FILL x0240
-        .FILL xFFE1
-        .FILL x011F
-        .FILL x801B
-        .FILL x00A0
-        .FILL xFFFC
-        .FILL x00DF
-        .FILL x8018
-        .FILL x04A0
-        .FILL xFFF5
-        .FILL x00FF
-        .FILL x800C
-        .FILL x0220
-        .FILL xFFFA
-        .FILL x00DF
-        .FILL x8009
-        .FILL x0260
-        .FILL xFFFD
-        .FILL x00FF
-        .FILL x801D
-        .FILL x0080
-        .FILL xFFF2
-        .FILL x00FF
-        .FILL x8010
-        .FILL x04A0
-        .FILL xFFEB
-        .FILL x00FF
-        .FILL x8018
-        .FILL x0220
-        .FILL xFFFA
-        .FILL x00DF
-        .FILL x8009
-        .FILL x0260
-        .FILL xFFFB
-        .FILL x00FF
-        .FILL x801E
-        .FILL x0080
-        .FILL xFFFC
-        .FILL x00DF
-        .FILL x803E
-        .FILL x8001
-        .FILL x04C0
-        .FILL xFFFC
-        .FILL x00FF
-        .FILL x8008
         .FILL x0200
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0260
+
+        .FILL x0200
+        .FILL xFFE1
+        .FILL x011F
+        .FILL x801B
+        .FILL x0060
+        .FILL xFFFC
+        .FILL x00DF
+        .FILL x8018
+        .FILL x0460
+        .FILL xFFF5
+        .FILL x00FF
+        .FILL x800C
+        .FILL x01E0
+        .FILL xFFFA
+        .FILL x00DF
+        .FILL x8009
+        .FILL x0220
+        .FILL xFFFD
+        .FILL x00FF
+        .FILL x801D
+        .FILL x8000
+        .FILL xFFF2
+        .FILL x00FF
+        .FILL x8010
+        .FILL x0460
+        .FILL xFFEB
+        .FILL x00FF
+        .FILL x8018
+        .FILL x01E0
+        .FILL xFFFA
+        .FILL x00DF
+        .FILL x8009
+        .FILL x0220
+        .FILL xFFFB
+        .FILL x00FF
+        .FILL x801E
+        .FILL x8000
+        .FILL xFFFC
+        .FILL x00DF
+        .FILL x803E
+        .FILL x04A0
+        .FILL xFFFC
+        .FILL x00FF
+        .FILL x8008
+        .FILL x01C0
+        .FILL xFFFA
+        .FILL x00DF
+        .FILL x8009
+        .FILL x0220
         .FILL xFFFA
         .FILL x00FF
         .FILL x801E
         .FILL xB400
         .FILL x013F
         .FILL x8019
-        .FILL x04E0
+        .FILL x04A0
         .FILL xFFF7
         .FILL x00FF
         .FILL x8016
-        .FILL x0200
+        .FILL x01C0
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0260
+        .FILL x0220
         .FILL xFFFA
         .FILL x00FF
         .FILL x801E
         .FILL xDC00
         .FILL x013F
         .FILL x8014
-        .FILL x04E0
+        .FILL x04A0
         .FILL xFFF1
         .FILL x00FF
         .FILL x801C
-        .FILL x0200
+        .FILL x01C0
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0260
+        .FILL x0220
         .FILL xFFFC
         .FILL x00FF
         .FILL x801C
         .FILL xF400
         .FILL x013F
         .FILL x800D
-        .FILL x04E0
+        .FILL x04A0
         .FILL xFFE7
         .FILL x011F
         .FILL x800C
-        .FILL x01E0
+        .FILL x01A0
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0260
+        .FILL x0220
         .FILL xFFFD
         .FILL x00FF
         .FILL x801A
         .FILL xFDA0
-
         .FILL x013F
         .FILL x0520
         .FILL xFFFD
         .FILL x00FF
         .FILL x8016
-        .FILL x01E0
+        .FILL x01A0
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0240
+        .FILL x0200
         .FILL xFFE4
         .FILL x011F
         .FILL x8017
         .FILL xFEA0
         .FILL x011F
         .FILL x801C
-        .FILL x0520
+        .FILL x04E0
         .FILL xFFFA
         .FILL x00FF
         .FILL x801A
-        .FILL x01E0
+        .FILL x01A0
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0240
+        .FILL x0200
         .FILL xFFF0
         .FILL x011F
         .FILL x8011
         .FILL xFF40
         .FILL x011F
+
         .FILL x8019
-        .FILL x0520
+        .FILL x04E0
         .FILL xFFF7
         .FILL x00FF
         .FILL x801E
-        .FILL x01E0
+        .FILL x01A0
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0240
+        .FILL x0200
         .FILL xFFF7
         .FILL x00FF
         .FILL x809E
         .FILL xF800
         .FILL x013F
         .FILL x8016
-        .FILL x0520
+        .FILL x04E0
         .FILL xFFF4
         .FILL x011F
         .FILL x800C
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0220
+        .FILL x01E0
         .FILL xFFA3
         .FILL x011F
         .FILL x8019
         .FILL xFCC0
         .FILL x013F
         .FILL x8014
-        .FILL x0520
+        .FILL x04E0
         .FILL xFFEF
         .FILL x011F
         .FILL x8012
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0220
+        .FILL x01E0
         .FILL xFFF3
         .FILL x011F
         .FILL x800D
         .FILL xFDC0
         .FILL x013F
         .FILL x8012
-        .FILL x0520
+        .FILL x04E0
         .FILL xFFEC
         .FILL x011F
         .FILL x8016
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0200
+        .FILL x01C0
         .FILL xFFA6
         .FILL x011F
         .FILL x801A
         .FILL xCC00
         .FILL x015F
         .FILL x800F
-        .FILL x0520
+        .FILL x04E0
         .FILL xFFE7
         .FILL x011F
         .FILL x8018
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0200
+        .FILL x01C0
         .FILL xFFF9
         .FILL x011F
         .FILL x800B
         .FILL xD400
         .FILL x015F
         .FILL x800C
-        .FILL x0540
+        .FILL x0500
         .FILL x015F
         .FILL x801A
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x01E0
+        .FILL x01A0
         .FILL xFFF4
         .FILL x011F
         .FILL x8013
-        .FILL x0080
+        .FILL x8000
         .FILL xFFF6
         .FILL x011F
         .FILL x800B
-        .FILL x0540
+        .FILL x0500
         .FILL xFFFE
         .FILL x00FF
         .FILL x801B
-        .FILL x01C0
-        .FILL xFFFA
-        .FILL x00DF
-
-        .FILL x8009
-        .FILL x01C0
-        .FILL xFFF4
-        .FILL x011F
-        .FILL x8018
-        .FILL x00A0
-        .FILL xFFF7
-        .FILL x011F
-        .FILL x8009
-        .FILL x0540
-        .FILL xFFFD
-        .FILL x00FF
-        .FILL x801C
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
         .FILL x0180
+        .FILL xFFF4
+        .FILL x011F
+        .FILL x8018
+        .FILL x0060
+        .FILL xFFF7
+        .FILL x011F
+        .FILL x8009
+        .FILL x0500
+        .FILL xFFFD
+        .FILL x00FF
+        .FILL x801C
+        .FILL x0180
+        .FILL xFFFA
+        .FILL x00DF
+        .FILL x8009
+        .FILL x0140
         .FILL xFF06
         .FILL x013F
         .FILL x8019
-        .FILL x00C0
+        .FILL x0080
         .FILL xFFF8
         .FILL x011F
         .FILL x8007
-        .FILL x0540
+        .FILL x0500
         .FILL xFFFD
         .FILL x00FF
         .FILL x801D
-        .FILL x01C0
+        .FILL x0180
+
         .FILL xFFFA
         .FILL x00DF
         .FILL x80B1
-        .FILL x8005
-        .FILL x0120
+        .FILL x0100
         .FILL xF685
         .FILL x015F
         .FILL x8016
-        .FILL x00E0
+        .FILL x00A0
         .FILL xFFF9
         .FILL x011F
         .FILL x8007
-        .FILL x0540
+        .FILL x0500
         .FILL xFFFD
         .FILL x00FF
         .FILL x801D
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x011F
         .FILL xE37D
@@ -570,46 +539,41 @@
         .FILL xFFDA
         .FILL x013F
         .FILL x823D
-        .FILL x8011
-        .FILL x0100
+        .FILL x00E0
         .FILL xFFF8
         .FILL x011F
         .FILL x8009
-        .FILL x0540
+        .FILL x0500
         .FILL xFFFC
         .FILL x00FF
         .FILL x801C
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x039F
         .FILL x9ADE
-        .FILL x80D6
-        .FILL x8006
         .FILL x0120
         .FILL xFFF7
         .FILL x011F
         .FILL x800A
-        .FILL x0540
+        .FILL x0500
         .FILL xFFFD
         .FILL x00FF
         .FILL x801C
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x00DF
         .FILL xFFBB
         .FILL x021F
         .FILL x9A9B
-        .FILL x80D4
-        .FILL x8006
         .FILL x0160
         .FILL xFFF6
         .FILL x011F
         .FILL x800C
-        .FILL x0540
+        .FILL x0500
         .FILL xFFFD
         .FILL x00FF
         .FILL x801B
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x00DF
         .FILL xA009
@@ -618,366 +582,348 @@
         .FILL xFFFE
         .FILL xFBFF
         .FILL xDF5C
-        .FILL x9E57
         .FILL x80F2
-        .FILL x8007
-        .FILL x01C0
+        .FILL x01A0
         .FILL xFFF5
         .FILL x011F
         .FILL x800E
-        .FILL x0540
+        .FILL x0500
         .FILL xFFFD
         .FILL x00FF
         .FILL x8019
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0420
+        .FILL x03E0
         .FILL xFFF2
         .FILL x011F
         .FILL x8011
-        .FILL x0540
+        .FILL x0500
         .FILL xFFFE
         .FILL x00FF
         .FILL x8017
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
-
         .FILL x00DF
         .FILL x8009
-        .FILL x0420
+        .FILL x03E0
         .FILL xFFED
         .FILL x011F
         .FILL x8013
-        .FILL x0540
+        .FILL x0500
         .FILL x015F
         .FILL x8013
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0420
+        .FILL x03E0
         .FILL xFFE6
         .FILL x011F
         .FILL x8016
-        .FILL x0520
+        .FILL x04E0
         .FILL xFFE8
         .FILL x011F
         .FILL x800F
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0440
+        .FILL x0400
         .FILL xFFFD
         .FILL x00FF
         .FILL x8018
-        .FILL x0520
+        .FILL x04E0
         .FILL xFFED
         .FILL x011F
         .FILL x8005
-        .FILL x01C0
+        .FILL x0180
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0440
+        .FILL x0400
+
         .FILL xFFFA
         .FILL x00FF
         .FILL x801B
-        .FILL x0520
+        .FILL x04E0
         .FILL xFFF1
         .FILL x00FF
         .FILL x801C
-        .FILL x01E0
+        .FILL x01A0
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0440
+        .FILL x0400
         .FILL xFFF5
         .FILL x00FF
         .FILL x801E
-        .FILL x0520
+        .FILL x04E0
         .FILL xFFF5
         .FILL x00FF
         .FILL x8018
-        .FILL x01E0
+        .FILL x01A0
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0440
+        .FILL x0400
         .FILL xFFEE
         .FILL x011F
         .FILL x8008
-        .FILL x0500
+        .FILL x04C0
         .FILL xFFF8
         .FILL x00FF
         .FILL x8011
-        .FILL x01E0
+        .FILL x01A0
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0460
+        .FILL x0420
         .FILL xFFFD
         .FILL x00FF
         .FILL x8012
-        .FILL x0500
+        .FILL x04C0
         .FILL xFFFB
         .FILL x00DF
         .FILL x809E
-        .FILL x8004
+        .FILL x01C0
+        .FILL xFFFA
+        .FILL x00DF
+        .FILL x8009
+        .FILL x0420
+        .FILL xFFF8
+        .FILL x00FF
+        .FILL x8017
+        .FILL x04C0
+        .FILL xFFFE
+        .FILL x00DF
+        .FILL x8019
+        .FILL x01C0
+        .FILL xFFFA
+        .FILL x00DF
+        .FILL x8009
+        .FILL x0420
+        .FILL xFFEF
+        .FILL x00FF
+        .FILL x801C
+        .FILL x04A0
+        .FILL xFFED
+        .FILL x00FF
+        .FILL x8011
+        .FILL x01C0
+        .FILL xFFFA
+        .FILL x00DF
+        .FILL x8009
+        .FILL x0440
+        .FILL xFFFC
+        .FILL x00FF
+        .FILL x8009
+        .FILL x0480
+        .FILL xFFF5
+        .FILL x00DF
+        .FILL x801D
         .FILL x01E0
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0460
-        .FILL xFFF8
-        .FILL x00FF
-        .FILL x8017
-        .FILL x0500
-        .FILL xFFFE
-        .FILL x00DF
-        .FILL x8019
-        .FILL x0200
-        .FILL xFFFA
-        .FILL x00DF
-        .FILL x8009
-        .FILL x0460
-        .FILL xFFEF
-        .FILL x00FF
-        .FILL x801C
-        .FILL x04E0
-        .FILL xFFED
-        .FILL x00FF
-        .FILL x8011
-        .FILL x0200
-        .FILL xFFFA
-        .FILL x00DF
-        .FILL x8009
-        .FILL x0480
-        .FILL xFFFC
-        .FILL x00FF
-        .FILL x8009
-        .FILL x04C0
-        .FILL xFFF5
-        .FILL x00DF
-        .FILL x801D
-        .FILL x0220
-        .FILL xFFFA
-        .FILL x00DF
-        .FILL x8009
-        .FILL x0480
+        .FILL x0440
         .FILL xFFF4
         .FILL x00FF
         .FILL x8014
-        .FILL x04C0
+        .FILL x0480
         .FILL xFFFB
-
         .FILL x00DF
         .FILL x8014
-        .FILL x0220
+        .FILL x01E0
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
-        .FILL x0480
+        .FILL x0440
         .FILL xFFC5
         .FILL x00FF
         .FILL x801B
-        .FILL x04A0
+        .FILL x0460
         .FILL xFFE7
         .FILL x00DF
         .FILL x80BE
-        .FILL x8005
+        .FILL x0200
+        .FILL xFFFA
+        .FILL x00DF
+        .FILL x8009
+        .FILL x0460
+        .FILL xFFF5
+        .FILL x00FF
+        .FILL x800C
+        .FILL x0440
+        .FILL xFFF4
+        .FILL x00DF
+        .FILL x8013
+        .FILL x0200
+        .FILL xFFFA
+        .FILL x00DF
+        .FILL x8009
+        .FILL x0460
+        .FILL xFFA2
+        .FILL x00FF
+        .FILL x8018
+        .FILL x0440
+        .FILL xFFFC
+        .FILL x00BF
+        .FILL x801C
+        .FILL x0220
+
+        .FILL xFFFA
+        .FILL x00DF
+        .FILL x8009
+        .FILL x0480
+        .FILL xFFF1
+        .FILL x00FF
+        .FILL x8008
+        .FILL x0400
+        .FILL xFFF0
+        .FILL x00DF
+        .FILL x800E
         .FILL x0220
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
         .FILL x04A0
-        .FILL xFFF5
-        .FILL x00FF
-        .FILL x800C
-        .FILL x0480
-        .FILL xFFF4
+        .FILL xFFF9
         .FILL x00DF
-        .FILL x8013
+        .FILL x8017
+        .FILL x0400
+        .FILL xFFFC
+        .FILL x00BF
+        .FILL x8016
         .FILL x0240
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
         .FILL x04A0
-        .FILL xFFA2
+        .FILL xFFA6
         .FILL x00FF
-        .FILL x8018
-        .FILL x0480
-        .FILL xFFFC
+        .FILL x800C
+        .FILL x03C0
+        .FILL xFFF3
         .FILL x00BF
-        .FILL x801C
+        .FILL x803B
         .FILL x0260
         .FILL xFFFA
         .FILL x00DF
         .FILL x8009
         .FILL x04C0
-        .FILL xFFF1
-        .FILL x00FF
-        .FILL x8008
-        .FILL x0440
-        .FILL xFFF0
-        .FILL x00DF
-        .FILL x800E
-        .FILL x0260
-        .FILL xFFFA
-        .FILL x00DF
-        .FILL x8009
-        .FILL x04E0
-        .FILL xFFF9
-        .FILL x00DF
-        .FILL x8017
-        .FILL x0440
-        .FILL xFFFC
-        .FILL x00BF
-        .FILL x8016
-        .FILL x0280
-        .FILL xFFFA
-        .FILL x00DF
-        .FILL x8009
-        .FILL x04E0
-        .FILL xFFA6
-        .FILL x00FF
-        .FILL x800C
-        .FILL x0400
-        .FILL xFFF3
-        .FILL x00BF
-        .FILL x803B
-        .FILL x8001
-        .FILL x0280
-        .FILL xFFFA
-        .FILL x00DF
-        .FILL x8009
-        .FILL x0500
         .FILL xFFEE
         .FILL x00DF
         .FILL x801A
-        .FILL x03E0
+        .FILL x03A0
         .FILL xFFC9
         .FILL x00BF
         .FILL x815E
-        .FILL x800A
-        .FILL x02A0
+        .FILL x0280
         .FILL xFFFB
         .FILL x00DF
         .FILL x800A
-        .FILL x0520
+        .FILL x04E0
         .FILL xFFF2
         .FILL x00DF
         .FILL x8015
-        .FILL x03C0
+        .FILL x0380
         .FILL xFFFB
         .FILL x009F
         .FILL x81BE
-        .FILL x800D
-        .FILL x02C0
+        .FILL x02A0
         .FILL xFFFB
         .FILL x00DF
         .FILL x800B
-        .FILL x0540
+        .FILL x0500
         .FILL xFFF5
         .FILL x00DF
         .FILL x800E
-        .FILL x0380
+        .FILL x0340
         .FILL xFFF8
         .FILL x00BF
         .FILL x8010
-        .FILL x02E0
+        .FILL x02A0
         .FILL xFFFC
         .FILL x00DF
         .FILL x800E
-        .FILL x0560
+        .FILL x0520
         .FILL xFFF6
         .FILL x00BF
         .FILL x817E
-        .FILL x800B
-        .FILL x0340
+        .FILL x0320
         .FILL xFFF6
         .FILL x00BF
         .FILL x8010
-        .FILL x0300
-
+        .FILL x02C0
         .FILL xFFFD
         .FILL x00DF
         .FILL x8010
-        .FILL x0580
+        .FILL x0540
         .FILL xFFF4
         .FILL x00BF
         .FILL x817D
-        .FILL x800B
-        .FILL x02E0
+        .FILL x02C0
         .FILL xFF01
         .FILL x00BF
         .FILL x81FE
-        .FILL x800F
-        .FILL x0320
+        .FILL x0300
         .FILL xFFFE
         .FILL x00DF
         .FILL x8014
-        .FILL x05A0
+        .FILL x0560
         .FILL xFFF3
         .FILL x00BF
         .FILL x81DE
-        .FILL x800E
-        .FILL x02A0
+        .FILL x0280
         .FILL xFF69
         .FILL x00BF
         .FILL x81BD
-        .FILL x800D
-        .FILL x0320
+        .FILL x0300
         .FILL xFFEB
         .FILL x00FF
         .FILL x8018
-        .FILL x05C0
+        .FILL x0580
         .FILL xFFAD
         .FILL x00DF
         .FILL x8056
-        .FILL x8002
-        .FILL x0240
+        .FILL x0220
         .FILL xFFD3
         .FILL x00BF
         .FILL x80FA
-        .FILL x8007
-        .FILL x0340
+        .FILL x0320
         .FILL xFFF5
         .FILL x00FF
         .FILL x801D
-        .FILL x05E0
+        .FILL x05A0
         .FILL xFF27
         .FILL x00DF
         .FILL x865D
-        .FILL x8032
-        .FILL x8001
         .FILL x01A0
+
         .FILL xF221
         .FILL x00FF
         .FILL x8015
-        .FILL x0360
+        .FILL x0320
         .FILL xFFCB
         .FILL x013F
         .FILL x8013
-        .FILL x0600
+        .FILL x05C0
         .FILL xFFB0
         .FILL x00DF
         .FILL xBEFE
-        .FILL x804F
         .FILL x8002
-        .FILL x00E0
+        .FILL x00A0
         .FILL xDE04
         .FILL xFFFE
         .FILL x00BF
         .FILL x815A
-        .FILL x800A
-        .FILL x0360
+        .FILL x0340
         .FILL xFFAE
         .FILL x017F
         .FILL x8014
-        .FILL x0600
+        .FILL x05C0
         .FILL xF683
         .FILL x013F
         .FILL xE35C
@@ -985,30 +931,25 @@
         .FILL xFFBA
         .FILL x011F
         .FILL x821B
-        .FILL x8010
-        .FILL x0320
+        .FILL x0300
         .FILL xC986
         .FILL xFFF9
         .FILL x01BF
         .FILL xBABC
-        .FILL x850E
         .FILL x8028
-        .FILL x8001
-        .FILL x05A0
+        .FILL x0580
         .FILL xEE62
         .FILL x02FF
         .FILL x81FA
-        .FILL x800F
-        .FILL x0300
+        .FILL x02E0
         .FILL xFFF7
         .FILL x035F
         .FILL x05C0
         .FILL xEECB
         .FILL x021F
         .FILL xD35E
-        .FILL x80F4
         .FILL x8007
-        .FILL x0340
+        .FILL x0300
         .FILL xFFF7
         .FILL x035F
         .FILL x0620
@@ -1018,7 +959,5 @@
         .FILL xFBFF
         .FILL xE37D
         .FILL x85D5
-        .FILL x802E
-        .FILL x8001
         .FILL x5A60
 .END
